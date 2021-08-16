@@ -1,6 +1,6 @@
 {
     "license": "GPL-3.0-only",
-    "version": "2.2.0",
+    "version": "3.0.1",
     "description": "File hashing and checking shell extension",
     "depends": [
         "sudo",
@@ -33,10 +33,10 @@
             }
         }
     },
-    "url": "https://github.com/namazso/OpenHashTab/releases/download/v3.0.1/OpenHashTab_setup_user.exe#/setup.exe",
-    "hash": "39f777e93ceb205fb008c936555a13d9a9aeef46e2bdc77b128f1366cb026df0",
+    "url": "https://github.com/namazso/OpenHashTab/releases/download/v3.0.1/OpenHashTab_setup_system.exe#/setup.exe",
+    "hash": "e1cf603ea6fc081b006b18d10b619a15c29f43d3135a47a32258274132e75551",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/namazso/OpenHashTab/releases/download/v$version/OpenHashTab_setup_user.exe#/setup.exe"
+        "url": "https://github.com/namazso/OpenHashTab/releases/download/v$version/OpenHashTab_setup_system.exe#/setup.exe"
     }
 }
