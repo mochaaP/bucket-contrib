@@ -1,6 +1,6 @@
 {
     "license": "GPL-3.0-only",
-    "version": "2.2.0",
+    "version": "3.0.1",
     "description": "File hashing and checking shell extension",
     "depends": [
         "sudo",
