@@ -1,0 +1,21 @@
+{
+    "version": "latest",
+    "description": "Open source UTAU editing environment.",
+    "homepage": "https://github.com/stakira/OpenUtau",
+    "license": "MIT",
+    "url": "https://github.com/stakira/OpenUtau/releases/download/OpenUtau-Latest/OpenUtau.zip",
+    "hash": "sha1:53b37178be691a2f799f7fdade360f9ac5d0ba8b",
+    "bin": "OpenUtau.exe",
+    "shortcuts": [
+        [
+            "OpenUtau.exe",
+            "OpenUtau"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://github.com/stakira/OpenUtau/releases/download/OpenUtau-Latest/OpenUtau.zip",
+        "hash": {
+            "mode": "download"
+        }
+    }
+}
