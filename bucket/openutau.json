@@ -11,5 +11,11 @@
             "OpenUtau.exe",
             "OpenUtau"
         ]
+    ],
+    "persist": [
+        "Plugins",
+        "Resamplers",
+        "Singers",
+        "prefs.json"
     ]
 }
