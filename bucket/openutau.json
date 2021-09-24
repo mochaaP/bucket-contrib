@@ -20,7 +20,7 @@
     "persist": [
         "Plugins",
         "Resamplers",
-        "Singers",
+        "Content",
         "prefs.json"
     ]
 }
