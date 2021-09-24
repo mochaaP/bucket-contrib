@@ -12,6 +12,11 @@
             "OpenUtau"
         ]
     ],
+    "pre_install": [
+        "@('prefs.json') | ForEach-Object {",
+        "    if (!(Test-Path \"$persist_dir\\$_\")) { New-Item \"$dir\\$_\" -Type File | Out-Null }",
+        "}"
+    ],
     "persist": [
         "Plugins",
         "Resamplers",
