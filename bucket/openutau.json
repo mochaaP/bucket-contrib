@@ -1,10 +1,10 @@
 {
-    "version": "0.0.168",
+    "version": "0.0.293",
     "description": "Open source UTAU editing environment.",
     "homepage": "https://github.com/stakira/OpenUtau",
     "license": "MIT",
-    "url": "https://ci.appveyor.com/api/buildjobs/uixyk9mrl0et4vf8/artifacts/OpenUtau%2Fbin%2FRelease%2FOpenUtau.zip",
-    "hash": "sha1:07747a702b7669ecea8f4928faf7530bddc88bfd",
+    "url": "https://ci.appveyor.com/api/buildjobs/2btm0ci4u38on9yl/artifacts/OpenUtau%2Fbin%2FRelease%2FOpenUtau.zip",
+    "hash": "sha1:51d19f552f429385df8c24bf0047c23891e162ec",
     "bin": "OpenUtau.exe",
     "shortcuts": [
         [
