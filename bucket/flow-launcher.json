@@ -1,13 +1,13 @@
 {
-    "version": "1.9.2",
+    "version": "1.9.3",
     "description": "Dedicated to make your workflow flow more seamlessly. Aimed at being more than an app launcher, it searches, integrates and expands on functionalities. Flow will continue to evolve, designed to be open and built with the community at heart.",
     "homepage": "https://github.com/Flow-Launcher/Flow.Launcher",
     "license": "MIT",
     "suggest": {
         "Python3": "python"
     },
-    "url": "https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.9.2/FlowLauncher-1.9.2-full.nupkg",
-    "hash": "sha1:a58327ab1f9877cf084e1c75bd61d4bfa92f1c77",
+    "url": "https://github.com/Flow-Launcher/Flow.Launcher/releases/download/v1.9.3/FlowLauncher-1.9.3-full.nupkg",
+    "hash": "sha1:53d07f92c6f30dad3929869bbf71ec4ee52783e9",
     "extract_dir": "lib\\netcoreapp3.1",
     "bin": "Flow.Launcher.exe",
     "shortcuts": [
